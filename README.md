@@ -4,7 +4,7 @@
 external/ntfs-3g
 system/vold
 
-mmm external/ntfs-3g后生成的相关文件：
+mmm external/ntfs-3g后生成的相关文件:
 out/target/product/<project>/system/bin/fsck.ntfs
 out/target/product/<project>/system/bin/mount.ntfs
 out/target/product/<project>/system/bin/mkfs.ntfs
