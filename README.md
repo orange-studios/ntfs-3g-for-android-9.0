@@ -6,12 +6,12 @@ external/ntfs-3g
 system/vold
 
 
-mmm external/ntfs-3g后生成的相关文件:
-out/target/product/<project>/system/bin/fsck.ntfs
-out/target/product/<project>/system/bin/mount.ntfs
-out/target/product/<project>/system/bin/mkfs.ntfs
-out/target/product/<project>/system/lib64/libntfs-3g.so
-out/target/product/<project>/system/lib/libntfs-3g.so
+mmm external/ntfs-3g后生成的相关文件:  
+out/target/product/<project>/system/bin/fsck.ntfs  
+out/target/product/<project>/system/bin/mount.ntfs  
+out/target/product/<project>/system/bin/mkfs.ntfs  
+out/target/product/<project>/system/lib64/libntfs-3g.so  
+out/target/product/<project>/system/lib/libntfs-3g.so  
 
 
 重点关注代码：
