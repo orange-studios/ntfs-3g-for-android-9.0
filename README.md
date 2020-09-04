@@ -35,8 +35,12 @@ Untracked files:
 	fs/Ntfs.h
 
 
-
-
+注意：
+在项目mk文件中添加PRODUCT_PACKAGES += \
+ fsck.ntfs \
+ libntfs-3g \
+ mount.ntfs \
+ mkfs.ntfs
 
 
 
