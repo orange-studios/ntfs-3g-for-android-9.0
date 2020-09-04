@@ -14,12 +14,12 @@ out/target/product/{project_name}/system/lib64/libntfs-3g.so
 out/target/product/{project_name}/system/lib/libntfs-3g.so  
 
 
-重点关注代码：
+重点关注代码：  
 system/vold/fs/Vfat.cpp
 system/vold/model/PublicVolume.cpp
 
 
-修改记录：
+修改记录：  
 Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)
   (use "git checkout -- <file>..." to discard changes in working directory)
