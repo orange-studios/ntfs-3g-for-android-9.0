@@ -14,6 +14,7 @@ out/target/product/{project_name}/system/lib64/libntfs-3g.so
 out/target/product/{project_name}/system/lib/libntfs-3g.so  
 
 device/vendor/product/device.mk
+
 PRODUCT_PACKAGES += \
     fsck.ntfs \
     mount.ntfs \
